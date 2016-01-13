@@ -1,0 +1,287 @@
+﻿2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: ModulePath             = [C:\$Windows.~WS\Sources]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: WorkingPath            = [C:\$Windows.~WS\Sources]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: LoggingPath            = [C:\$Windows.~WS\Sources\Panther]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: MediaPath              = []
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: InstallFilePath        = []
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: WinReFilePath          = []
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: ServicingStackFilePath = []
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: CmdLine                = [/Download /Web /ProcessId 5400  /SuccessId a3e5a204-e022-4036-b4dd-4819ac7f6e5f]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: Mode                   = [0x8]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: Scenario               = [0x7]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost::Initialize: Flags                  = [0x0]
+2015-08-20 21:17:32, Info                  MOUPG  SetupHost: Setup build version is: 10.0.10240.16423 (th1_st1.150731-1741)
+2015-08-20 21:17:32, Info                  CONX   pGetHostCSDBuildNumber: 'HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\CSDBuildNumber' does not exist. Assume 0
+2015-08-20 21:17:32, Info                  CONX   Host OS version: 6.3.9600.0  (0.0) Platform 0x2, SuiteMask 0x300, ProdType 0x1
+2015-08-20 21:17:32, Info                  CONX   Source OS: Host SKU Info: Edition = 'Core', Edition Type = 'Client', Installation Type = 'Complete', Product Name = 'Windows 8.1', Arch = amd64, StationType = Client Workstation, Stage type = Staged Image
+2015-08-20 21:17:33, Info                  MOUPG      Host OS License State   [ Genuine ]
+2015-08-20 21:17:33, Info                  MOUPG      Host OS Architecture    [ x64 ]
+2015-08-20 21:17:33, Info                  MOUPG      Host OS Language Id     [ 1036 ]
+2015-08-20 21:17:33, Info                  MOUPG      User UI Language Id     [ 1036 ]
+2015-08-20 21:17:33, Info                  MOUPG      Host OS Edition         [ Core ]
+2015-08-20 21:17:33, Info                  MOUPG      Host OS Version         [ 6.3.9600 ]
+2015-08-20 21:17:33, Info                  MOUPG      Host OS Build String    [ 9600.17936.amd64fre.winblue_ltsb.150715-0840 ]
+2015-08-20 21:17:33, Info                  MOUPG  SetupHost::InitializeComponents
+2015-08-20 21:17:33, Info                  MOUPG  SetupHost: Loading ID: [c7b6e4de-b741-42d8-ac05-16738c9e0bc5] from [C:\$Windows.~WS\Sources\MediaSetupUIMgr.dll]...
+2015-08-20 21:17:34, Info                  MOUPG  SetupHost: Loading complete.
+2015-08-20 21:17:34, Info                  MOUPG  CInstallUI::Initialize
+2015-08-20 21:17:34, Info                  MOUPG  SetupHost: Loading ID: [3d3ad714-f8d8-4c84-ad5f-10938c2f3339] from [C:\$Windows.~WS\Sources\SetupCore.dll]...
+2015-08-20 21:17:34, Error                 MOUPG  CInstallUI::GetDefaultLanguage(1538): Result = 0x80070002[gle=0x00000002]
+2015-08-20 21:17:34, Info                  MOUPG  SetupHost: Loading complete.
+2015-08-20 21:17:34, Info                  MOUPG  SetupHost: Loading ID: [c7b6e4de-b741-42d8-ac05-16738c9e0bc5] from [C:\$Windows.~WS\Sources\SetupMgr.dll]...
+2015-08-20 21:17:34, Info                  MOUPG  SetupHost: Loading complete.
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: WorkingPath            = [C:\$Windows.~WS\Sources]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: MediaPath              = []
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: InstallFilePath        = []
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: WinReFilePath          = []
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: ServicingStackFilePath = []
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: Mode                   = [0x8]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: Scenario               = [0x7]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager::Initialize: Flags                  = [0x0]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager: Working Directory:  [C:\$Windows.~WS\Sources]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager: Local Media Path:   [C:\$Windows.~WS]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager: Scratch Path:       [C:\$Windows.~WS\Sources\Panther]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager: Media Path:         []
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager: Drivers Path:       [C:\$Windows.~WS\Drivers]
+2015-08-20 21:17:34, Info                  MOUPG  SetupManager: LangPacks Path:     [C:\$Windows.~WS\LangPacks]
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore::Initialize
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore::RegisterSetupActions
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered IMAGE_EXIT action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DU_SETUP action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DU_IMAGE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DU_PACKAGE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_SYSREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_PKG_SYSREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_DOWNLOADREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_PKG_DOWNLOADREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DISKSPACE_DOWNLOADREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DISKSPACE_INSTALLREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DISKSPACE_PACKAGEREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_MIGCHOICE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered PKEY_VALIDATE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered EULA action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_INSTALLREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_PACKAGEREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DISK_PARTITION action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered COMPAT_RECOVERYREQ action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered ACTIVATION action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered SUMMARY action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered IMAGE_DEPLOY action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered PACKAGE_DEPLOY action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DRIVER_MIGRATE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DATA_MIGRATE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered PACKAGE_MIGRATE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered DEBUGGER_OPTIONS action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered IMAGE_FINALIZE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered PACKAGE_FINALIZE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered BOOT_FINALIZE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered ADVERTISE action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered INSTALL_GET_WEBSETUP_USER_INPUT action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered MEDIA_CREATE_SUCCESS action
+2015-08-20 21:17:34, Info                  MOUPG  SetupCore: Registered PKEY_GET_EDITION action
+2015-08-20 21:17:34, Info                  MOUPG  DlpMgrInit: WorkingPath = [C:\$Windows.~WS\Sources\Panther], Disposition = [Open], Flags = [0x1], Diagnostics = [Yes], Registrar = [Yes]
+2015-08-20 21:17:34, Info                  MOUPG  DlpMgrInit: WorkingPath = [C:\$Windows.~WS\Sources\Panther], Disposition = [Create], Flags = [0x1], Diagnostics = [Yes], Registrar = [Yes]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Reporting Data - DataId = [1], Value = [9]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Reporting Data - DataId = [2], Value = [7]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Reporting Data - DataId = [4], Value = [8]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Reporting Data - DataId = [6], Value = [2]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Reporting Data - DataId = [9], Value = [0]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Uninstall Enabled via host OS version.
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: PartitionResize Enabled by default.
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: MigRollback Enabled via scenario detection.
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Target Drive Letter set to [C] via default.
+2015-08-20 21:17:35, Warning               MOUPG  SetupHost: Unexpected scenario - defaulting postoobe/rollback commands!
+2015-08-20 21:17:35, Info                  MOUPG  SetupHost::Execute
+2015-08-20 21:17:35, Info                  MOUPG  Setup StudyID was [not found]
+2015-08-20 21:17:35, Info                  MOUPG  A previous StudyID was [not restored]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager::Execute called
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager: Reporting Data - DataId = [3], Value = [0]
+2015-08-20 21:17:35, Info                  MOUPG  SetupUI: Detecting connected standby capability...
+2015-08-20 21:17:35, Info                  MOUPG  SetupUI: Connected standby: [No]
+2015-08-20 21:17:35, Info                  MOUPG  SetupUI: Creating power request...
+2015-08-20 21:17:35, Info                  MOUPG  SetupUI: Calling PowerSetRequest with type [0x1]...
+2015-08-20 21:17:35, Info                  MOUPG  SetupUI: Power request granted!
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager::DetermineSetupPhase: CurrentSetupPhase [SetupPhasePreDownload]
+2015-08-20 21:17:35, Info                  MOUPG  Setup phase change: [SetupPhaseUnknown] -> [SetupPhasePreDownload]
+2015-08-20 21:17:35, Info                  MOUPG  SetupManager::OpenOrCreateTask: Creating new task [PreDownload].
+2015-08-20 21:17:35, Info                  MOUPG  CreateTask: Name = [PreDownload], WorkingPath = [C:\$Windows.~WS\Sources], TransportId = [00000000-0000-0000-0000-000000000000], Flags = [0x0]
+2015-08-20 21:17:35, Info                  MOUPG  GetWebSetupUserInput: Entering Prepare Method
+2015-08-20 21:17:35, Info                  MOUPG  GetWebSetupUserInput: Leaving Prepare Method
+2015-08-20 21:17:35, Info                  MOUPG  DlpTask: Entering Execute Method
+2015-08-20 21:17:35, Info                  MOUPG  DlpTask: Transport not set. Skipping download phase.
+2015-08-20 21:17:35, Info                  MOUPG  DlpTask: Executing Actions...
+2015-08-20 21:17:35, Info                  MOUPG  Action execution thread timeout period: [1000 ms]
+2015-08-20 21:17:35, Info                  MOUPG  CreateDlpFile: Source = [https://go.microsoft.com/fwlink/?LinkId=536393], Target = [C:\$Windows.~WS\Sources\products.xml]
+2015-08-20 21:17:35, Info                  MOUPG  ConnectToSourceUrl: Port: [443], Secure -> [TRUE]
+2015-08-20 21:17:35, Info                  MOUPG  ConnectToSourceUrl: IE specifies auto-detect.
+2015-08-20 21:17:35, Info                  MOUPG  ConnectToSourceUrl: Trying auto-detect...
+2015-08-20 21:17:35, Warning               MOUPG  ConnectToSourceUrl: Unable to retrieve proxy info for URL -> [0x2f94].
+2015-08-20 21:17:35, Info                  MOUPG  ConnectToSourceUrl: Using IE proxy settings...
+2015-08-20 21:17:36, Info                  MOUPG  CheckHttpRequestStatus: WinHttpQueryHeaders Status -> [200]
+2015-08-20 21:17:36, Info                  MOUPG  ConnectToSourceUrl: Port: [443], Secure -> [TRUE]
+2015-08-20 21:17:36, Info                  MOUPG  ConnectToSourceUrl: Requesting -> [Range: bytes=0-3150280]
+2015-08-20 21:17:36, Info                  MOUPG  CheckHttpRequestStatus: WinHttpQueryHeaders Status -> [206]
+2015-08-20 21:17:48, Info                  MOUPG  GetWebSetupUserInput: Including retail only editions = [NO].
+2015-08-20 21:18:11, Info                  MOUPG  ProgressHandlerAction: Sending initial progress message for action [0].
+2015-08-20 21:18:11, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x2002]
+2015-08-20 21:18:11, Info                  MOUPG  CInstallUI::OnActionChanged
+2015-08-20 21:18:11, Info                  MOUPG  CInstallUI::OnActionChanged: Posted MSG_INSTALLUI_UPDATE_PROGRESS
+2015-08-20 21:18:11, Info                  MOUPG  GetWebSetupUserInput: Entering Execute Method
+2015-08-20 21:18:11, Info                  MOUPG  GetWebSetupUserInput: Entering execute.
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Loading Setup Platform...
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Determine if the expected version of Setup Platform has been loaded...
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Platform and Setup binaries match!
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Attempting resurrect of Setup Platform object...
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Creating Setup Platform object...
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Setup Platform object created!
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Enable diagnosis mode
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Persisting telemetry data
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Releasing Setup Platform object...
+2015-08-20 21:18:11, Info                  MOUPG  MoSetupPlatform: Setup Platform object released!
+2015-08-20 21:18:11, Info                  MOUPG  InstallNowOrLater: Entering Response Execute Method
+2015-08-20 21:18:11, Info                  MOUPG  CInstallUI::ShowPage: Posted MSG_INSTALLUI_SWITCH_TO_RESPONSE_PAGE
+2015-08-20 21:18:11, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToResponsePage
+2015-08-20 21:18:11, Info                  MOUPG  CInstallUI::SwitchToResponsePage
+2015-08-20 21:18:15, Info                  MOUPG  CInstallUI::ShowProgress: Posted MSG_INSTALLUI_SWITCH_TO_PROGRESS_PAGE
+2015-08-20 21:18:15, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToProgressPage
+2015-08-20 21:18:15, Info                  MOUPG  CSetupResponseTemplate<class IDlpResponse>::ExecuteRoutine: Next button clicked.
+2015-08-20 21:18:15, Info                  MOUPG  CInstallUI::SwitchToProgressPage
+2015-08-20 21:18:15, Info                  MOUPG  InstallNowOrLater: Leaving Response Execute Method
+2015-08-20 21:18:15, Info                  MOUPG  GetWebSetupUserInput: Execute: InstallNow=[FALSE].
+2015-08-20 21:18:15, Info                  MOUPG  SelectDownloadImage: Entering Response Execute Method
+2015-08-20 21:18:15, Info                  MOUPG  CInstallUI::ShowPage: Posted MSG_INSTALLUI_SWITCH_TO_RESPONSE_PAGE
+2015-08-20 21:18:15, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToResponsePage
+2015-08-20 21:18:15, Info                  MOUPG  CInstallUI::SwitchToResponsePage
+2015-08-20 21:20:16, Info                  MOUPG  CInstallUI::ShowProgress: Posted MSG_INSTALLUI_SWITCH_TO_PROGRESS_PAGE
+2015-08-20 21:20:16, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToProgressPage
+2015-08-20 21:20:16, Info                  MOUPG  CInstallUI::SwitchToProgressPage
+2015-08-20 21:20:16, Info                  MOUPG  CSetupResponseTemplate<class IDlpResponse>::ExecuteRoutine: Next button clicked.
+2015-08-20 21:20:16, Info                  MOUPG  SelectDownloadImage: Leaving Response Execute Method
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Selected Image Name From response = [Windows 10 Famille].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Selected Language From Response = [fr-fr].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Selected Architecture From Resposne = [x64].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Selected MultiArch = [FALSE].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Download Url X86 = [(null)].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Decryption key X86 = [(null)].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Download file hash X86 = [(null)].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Download file size X86 = [0].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Download Url X64 = [http://fg.ds.b1.download.windowsupdate.com/c/updt/2015/07/10240.16384.150709-1700.th1_clientcore_ret_x64fre_fr-fr_2657e2be86d4127e79b0a6d80bf3c2347a8affbb.esd].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Decryption key X64 =[BwIAAACkAABSU0EyAAgAAAEAAQCNWsKi2L/3i8l2s91yX0Ea4Z5x5i9ngwB2wITlxLgCUz22U60YGehF2NeH6htxHQsqI6WEVFnxjgR5TEkWJTDrZ9Ura1wAcugczD9uz0owxYF5p8oWEku3MK7qLCPAtX+4CEKCPuruHMSZe3ieZyC/odI/50B//PBM/HEBh5FM/rVteXMDEvuMozAHqQoz3p6iDekL/Dhqy9J5foP6ZUwdEGLj2AXI4Ae6ciXy/wmM5mCtCtNq8CFV+mFSFLWFZ2sazBQ8GyyehHkMrjGQ4EG5RSQWMySiGagaWbzvZ37LR2+qqdwxOzGwQlsBRfCfmtfFnajqLZnab8A1HmlEbI7WYwHb7MoBj2FK+xowzGs5i9pIP3Brullq28R6ayAvEywixklHzarC10r2SlalORdiMJnEcPGeaJ5ZvzKG8wOATn68cLLQFKrqlrRo9XLjWrpJCTKt8CcrbRJ5ZLbYxzw4vecz2O3GyJQ8wRVCOGDq6RTaftToOE6vMqG7MjzYU9hPbxHqnWZo9c09sAh1inBJsHJi6mZZokkTZ7R8FtSrSfIGoF0Kr1BmmWZc/n9MvCBnwwlTkt0O9kkG7IJO8mrBNdGydcq+ph1MbUGib5nwWIazgcfXGXYDz1eX1RpqmhA1TkXzbwUl6vPeuncbD5kUxdGK5XueW2j9E+/Dw2zn/bWSYRVhMrSXbc77IlFRDd1tZZT5766snSQxo8+mffl6NbLimvpwh4Q7vXJULQrXxS1eGYOMq+IsH5N5vkyowkI3MHBruewkRbEyBydB9zkQuqrx3bs0lT3qB94WK72fo8QaXeVOebm9cdJQ+dMb2yGjqR2CPZOam6CLiRyCNspwVUaLfCqOnZAGa/HW7oi+2RNm/EM89kxbH2GDQl1KrIk7sZ+5BUe7dubbmE8k23LibVynY37Yn8kGooGBrCvnIuUSGebhTOWvm70S+p4jcT5dmQD5D7tRZlXccPyvRVKyUBWC5hbMZBXYd4ZVbaRQNFXVz2Thir58jpF6VIxhcCj9ifmG71qT0GFIqJsxl4pABNV42RyqefUq5Nfcw4RLRWtPtK3WTPljJXSCukRTO3jdkPelD5MZA0PLO5t95cddI9MgxIer72jM6ve1bV5fK9MbzJidJE9ZgLENvxP59Hx7rnBWAUlMlw8VTjz6MhvHMJvd7poUhxyZG21Qs/JwWQd/qsZqW7sDcg104KGNcMaHxVDVjSOisfafEX5s0zeOQghTpVEbkrScoQheL0/aNPxQvC1rsBD0K3x65vE1hl3taMw6Dps7SFr0mOGyCVCFOb2h+2eZfMvw/hvbZ3KfiwpOYJzAXgX7m0syE5v7lTtWOaHTz9BWcDXFYWX15YNjQiId/SPUuDBKki9I1YJHef2GxR2/mx1Idic6JkqeAXKDexQxEy/3Pv2tKVfJhCtmTiRTv0pDxctw1q3wXpU/lpw5q4vVlf7B9W4NDRZh3krfrd7a5UKn5Jqhc/RzvqIX05PqP8clGMM3639+0/uqrMVeG8OkAPTHC4Csvsj04QM=].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Download file hash X64 = [2657e2be86d4127e79b0a6d80bf3c2347a8affbb].
+2015-08-20 21:20:16, Info                  MOUPG  GetWebSetupUserInput: Execute: Download file size X64 = [2801569922].
+2015-08-20 21:20:16, Info                  MOUPG  SelectMediaFormat: Entering Response Execute Method
+2015-08-20 21:20:16, Info                  MOUPG  CInstallUI::ShowPage: Posted MSG_INSTALLUI_SWITCH_TO_RESPONSE_PAGE
+2015-08-20 21:20:16, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToResponsePage
+2015-08-20 21:20:16, Info                  MOUPG  CInstallUI::SwitchToResponsePage
+2015-08-20 21:20:39, Info                  MOUPG  CInstallUI::ShowProgress: Posted MSG_INSTALLUI_SWITCH_TO_PROGRESS_PAGE
+2015-08-20 21:20:39, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToProgressPage
+2015-08-20 21:20:39, Info                  MOUPG  CSetupResponseTemplate<class IDlpResponse>::ExecuteRoutine: Next button clicked.
+2015-08-20 21:20:39, Info                  MOUPG  CInstallUI::SwitchToProgressPage
+2015-08-20 21:20:39, Info                  MOUPG  SelectMediaFormat: Leaving Response Execute Method
+2015-08-20 21:20:39, Info                  MOUPG  SelectUsbDrive: Entering Response Execute Method
+2015-08-20 21:20:40, Info                  MOUPG  CInstallUI::ShowPage: Posted MSG_INSTALLUI_SWITCH_TO_RESPONSE_PAGE
+2015-08-20 21:20:40, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToResponsePage
+2015-08-20 21:20:40, Info                  MOUPG  CInstallUI::SwitchToResponsePage
+2015-08-20 21:20:59, Info                  MOUPG  CInstallUI::ShowProgress: Posted MSG_INSTALLUI_SWITCH_TO_PROGRESS_PAGE
+2015-08-20 21:20:59, Info                  MOUPG  CSetupResponseTemplate<class IDlpResponse>::ExecuteRoutine: Next button clicked.
+2015-08-20 21:20:59, Info                  MOUPG  CInstallUI::CInstallUIMessageWindow::SwitchToProgressPage
+2015-08-20 21:20:59, Info                  MOUPG  SelectUsbDrive: Leaving Response Execute Method
+2015-08-20 21:20:59, Info                  MOUPG  CInstallUI::SwitchToProgressPage
+2015-08-20 21:20:59, Info                  MOUPG  GetWebSetupUserInput: Execute: Target Usb Drive=[E].
+2015-08-20 21:20:59, Info                  MOUPG  GetWebSetupUserInput: Leaving Execute Method
+2015-08-20 21:20:59, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x2004]
+2015-08-20 21:20:59, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x2003]
+2015-08-20 21:20:59, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x2001]
+2015-08-20 21:20:59, Info                  MOUPG  ProgressHandlerAction: Sending final progress message for action [0].
+2015-08-20 21:20:59, Info                  MOUPG  ProgressHandlerAction FinalUpdate: 0x0, 0x64 / 0x64, 0x0
+2015-08-20 21:20:59, Info                  MOUPG  Action: 100%, Delta: 168.83s, 100 ticks, Avg: 0.592 ticks/s
+2015-08-20 21:20:59, Info                  MOUPG  Action progress: [100%]
+2015-08-20 21:20:59, Info                  MOUPG  Task progress: [100%]
+2015-08-20 21:20:59, Info                  MOUPG  Overall progress: [100%]
+2015-08-20 21:20:59, Info                  MOUPG  ProgressHandlerAction: Sending final progress message for action [0].
+2015-08-20 21:20:59, Info                  MOUPG  ProgressHandlerAction FinalUpdate: 0x0, 0x64 / 0x64, 0x64
+2015-08-20 21:20:59, Info                  MOUPG  Waiting for actions thread to exit.
+2015-08-20 21:20:59, Info                  MOUPG  Actions thread has exited.
+2015-08-20 21:20:59, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x2004]
+2015-08-20 21:20:59, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x2000]
+2015-08-20 21:20:59, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x3000]
+2015-08-20 21:20:59, Info                  MOUPG  DlpTask: Leaving Execute Method
+2015-08-20 21:20:59, Info                  MOUPG  Setup phase change: [SetupPhasePreDownload] -> [SetupPhaseDownload]
+2015-08-20 21:20:59, Info                  MOUPG  SetupManager::OpenOrCreateTask: Creating new task [Download].
+2015-08-20 21:20:59, Info                  MOUPG  CreateTask: Name = [Download], WorkingPath = [C:\$Windows.~WS\Sources], TransportId = [3d5edec5-37a4-4a4f-b5be-9a0a396c2f85], Flags = [0x0]
+2015-08-20 21:20:59, Info                  MOUPG  SetupManager: Adding download files.
+2015-08-20 21:20:59, Info                  MOUPG  SetupManager: X64 Url = [http://fg.ds.b1.download.windowsupdate.com/c/updt/2015/07/10240.16384.150709-1700.th1_clientcore_ret_x64fre_fr-fr_2657e2be86d4127e79b0a6d80bf3c2347a8affbb.esd], Target=[C:\$Windows.~WS\Sources\installx64.esd]
+2015-08-20 21:20:59, Info                  MOUPG  DlpTask: Adding file: Name = [], Source = [http://fg.ds.b1.download.windowsupdate.com/c/updt/2015/07/10240.16384.150709-1700.th1_clientcore_ret_x64fre_fr-fr_2657e2be86d4127e79b0a6d80bf3c2347a8affbb.esd], Target = [C:\$Windows.~WS\Sources\installx64.esd]
+2015-08-20 21:20:59, Info                  MOUPG  RecoverCrypto: Entering Prepare Method
+2015-08-20 21:21:00, Info                  MOUPG  RecoverCrypto: Leaving Prepare Method
+2015-08-20 21:21:00, Info                  MOUPG  DlpTask: Entering Execute Method
+2015-08-20 21:21:00, Info                  MOUPG  DlpTask: Preparing Files...
+2015-08-20 21:21:00, Info                  MOUPG  Waiting for prepare thread to exit.
+2015-08-20 21:21:00, Info                  MOUPG  BitsTransport: Entering Prepare Method
+2015-08-20 21:21:00, Info                  MOUPG  BitsTransport: Leaving Prepare Method
+2015-08-20 21:21:00, Info                  MOUPG  Prepare thread has exited.
+2015-08-20 21:21:00, Info                  MOUPG  DlpTask: Transferring Files...
+2015-08-20 21:21:00, Warning               MOUPG  CSetupDiagnostics::ReportData - Not reporting WINDLP data point [0x1001]
+2015-08-20 21:21:00, Info                  MOUPG  CInstallUI::OnActionChanged
+2015-08-20 21:21:00, Info                  MOUPG  CInstallUI::OnActionChanged: Posted MSG_INSTALLUI_UPDATE_PROGRESS
+2015-08-20 21:21:00, Info                  MOUPG  Transfer execution thread timeout period: [1000 ms]
+2015-08-20 21:21:00, Info                  MOUPG  BitsTransport: Entering Execute Method
+2015-08-20 21:21:00, Info                  MOUPG  BitsExecute: Resuming BITS job.
+2015-08-20 21:21:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:22:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:23:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:23:15, Info                  MOUPG  CInstallUI::ShowMessageBox: Showing MessageBox
+2015-08-20 21:23:17, Info                  MOUPG  CInstallUI::ConfirmCanceled: User cancel confirmed
+2015-08-20 21:24:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:25:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:26:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:27:00, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:28:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:29:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:30:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:31:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:32:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:33:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:34:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:35:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:36:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:37:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:38:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:39:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:40:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:41:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:42:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:43:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:44:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:45:01, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:46:02, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:47:02, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
+2015-08-20 21:48:02, Warning               MOUPG  Bits Error: Fatal = [No], State = [TransientError], Error_Context = [BG_ERROR_CONTEXT_LOCAL_FILE], hr = [0x80070083], Description = [An attempt was made to move the file pointer before the beginning of the file.
+] 
